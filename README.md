@@ -45,7 +45,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nestjs,django,flask,mysql,notion,netlify,idea,flutter,aws,css,java,nodejs,docker,postgres,prisma,express,figma,firebase,redis,supabase,github,html,js,linux,materialui,nginx,mongodb,mysql,nextjs,postman,py,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,maven,spring,py,django,flask,fastapi,js,ts,npm,yarn,nodejs,express,nestjs,graphql,vite,react,redux,nextjs,angular,androidstudio,dart,flutter,jest,cypress,docker,kubernetes,prisma,postgres,mysql,sqlite,mongodb,redis,aws,supabase,firebase,vercel,netlify,heroku,planetscale,css,sass,materialui,tailwind,html,figma,idea,vscode,sublime,windows,powershell,linux,ubuntu,git,github,githubactions,gitlab &perline=14" />
   </a>
 </p>
 
