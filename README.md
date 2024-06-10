@@ -10,7 +10,7 @@
       <h1 style="display: inline-block">
       Hi 👋, I'm Gregorio Cardona</h1>
       <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast"  alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Data+Engineer;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast"  alt="Headline" />
     </div>
     </summary>
     <img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
@@ -25,7 +25,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <!--Intro start-->
-- I'm currently in my 7th semester of a Systems Engineering degree.
+- I'm currently in my 8th semester of a Systems Engineering degree.
 - 👀 I’m interested in full-stack web and mobile development as well as data science. I love testing my backend and frontend applications and apply best practices and design patterns.
 - 💞️ I’m looking to collaborate on developing amazing projects. I love nature and bugs because they allow me to learn and become a better developer. I'm self-taught, collaborative, and understanding.
 - 📚 My favorite books are Atomic Habits, How to Influence People and Win Friends, The Power of Now, The Kaizen, A Mind for Numbers, Clean Code, and Eloquent JavaScript.
@@ -45,7 +45,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,maven,spring,py,django,flask,fastapi,js,ts,npm,yarn,nodejs,express,nestjs,graphql,vite,react,redux,nextjs,angular,androidstudio,dart,flutter,jest,cypress,docker,kubernetes,prisma,postgres,mysql,sqlite,mongodb,redis,aws,supabase,firebase,vercel,netlify,heroku,planetscale,css,sass,materialui,tailwind,html,figma,idea,vscode,sublime,windows,powershell,linux,ubuntu,git,github,githubactions,gitlab &perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,maven,spring,py,django,flask,fastapi,js,ts,npm,yarn,nodejs,express,nestjs,graphql,react,redux,nextjs,angular,jest,cypress,docker,kubernetes,prisma,postgres,mysql,sqlite,mongodb,redis,aws,supabase,firebase,vercel,netlify,heroku,planetscale,css,sass,materialui,tailwind,html,figma,idea,vscode,sublime,windows,powershell,linux,ubuntu,git,github,githubactions,gitlab &perline=14" />
   </a>
 </p>
 
@@ -61,8 +61,8 @@
 
 <!--icons and links-->
 <p align="center">
-  
-<a href="https://www.linkedin.com/in/jose-gregorio-cardona-guarin-95306a19a/" target="blank">
+
+<a href="https://www.linkedin.com/" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
 </a>
 
