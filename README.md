@@ -25,13 +25,15 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <!--Intro start-->
-- I'm currently in my 8th semester of a Systems Engineering degree.
-- 👀 I’m interested in full-stack web and mobile development as well as data science. I love testing my backend and frontend applications and apply best practices and design patterns.
-- 💞️ I’m looking to collaborate on developing amazing projects. I love nature and bugs because they allow me to learn and become a better developer. I'm self-taught, collaborative, and understanding.
-- 📚 My favorite books are Atomic Habits, How to Influence People and Win Friends, The Power of Now, The Kaizen, A Mind for Numbers, Clean Code, and Eloquent JavaScript.
-- 🏋️‍♂️ I love to exercise, read, and learn languages. I have an excellent level of English.
-- 🐾 I have two pets that I love with all my heart.
-- 👨‍👩‍👧‍👦 I come from a family of farmers and am the youngest of 7 siblings.
+👋 Hello World! I'm passionate about software development and data engineering, specializing in backend systems and ETL pipelines using a wide range of technologies 👨‍💻. My expertise includes designing, developing, and optimizing data workflows, ensuring data quality, orchestrating ETL processes with Apache Airflow and Celery, Storing efficiently with Amazon S3 using Airflow, Leveraging AWS Glue for data cataloging and ETL jobs, Querying and transforming data with Amazon Athena, and implementing robust data integration solutions. With a background of growing up in a family of 8 siblings and parents who are dedicated farmers, I've learned the value of hard work, resilience, and the importance of community support 🌱. This upbringing has instilled in me a strong work ethic and a collaborative spirit, which I bring to every project.
+
+My dream is to establish a Data Science school in my community, aiming to steer children away from losing time by providing them with education and opportunities. 📚 This dream is fueled by my love for learning, particularly in data science, fields that I'm actively exploring. 🛡️📊
+
+Beyond coding, I'm a proud pet owner 🐾, 📚 My favorite books are Atomic Habits, How to Influence People and Win Friends, The Power of Now, The Kaizen, A Mind for Numbers, Clean Code, and Eloquent JavaScript.🏋️‍♂️ I love to exercise, read, and learn languages. I have an excellent level of English.
+
+I'm dedicated to crafting efficient, scalable, and user-friendly software solutions tailored to clients' and users' unique needs 💡. Thriving in collaborative, fast-paced environments, I stay updated with the latest industry trends and best practices, ensuring high-quality code and innovative solutions 📈.
+
+Let's connect and explore opportunities to work together! 🤝
 <!--Intro end-->
 
 
